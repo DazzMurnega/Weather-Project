@@ -279,7 +279,7 @@ function App() {
           </div>
         )}
 
-        {/* FAVORITE CITIES SECTION */}
+        {/* Favourite cities section */}
         {favorites.length > 0 && (
           <div style={{ marginTop: "2rem", textAlign: "left" }}>
             <h3>⭐ Favorite Cities</h3>
